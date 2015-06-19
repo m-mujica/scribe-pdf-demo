@@ -1,0 +1,20 @@
+{
+  "name": "scribe-demo",
+  "version": "0.0.1",
+  "description": "Demo using ScribeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "bootstrap": "^3.3.5",
+    "can": "^2.3.0-pre.1",
+    "jquery": "^2.1.4",
+    "scribe-editor": "^1.4.2",
+    "scribe-plugin-toolbar": "^0.2.0",
+    "steal": "git://github.com/stealjs/steal#master"
+  },
+  "system": {}
+}

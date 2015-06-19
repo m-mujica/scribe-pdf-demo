@@ -1,0 +1,19 @@
+<div class="row">
+  <div class="col-md-12">
+    <div class="toolbar btn-group">
+      <label class="btn btn-default" data-command-name="bold">Bold</label>
+      <label class="btn btn-default" data-command-name="italic">Italic</label>
+      <label class="btn btn-default" data-command-name="indent">Indent</label>
+      <label class="btn btn-default" data-command-name="outdent">Outdent</label>
+      <label class="btn btn-default" data-command-name="createLink">Link</label>
+      <label class="btn btn-default" data-command-name="unlink">Unlink</label>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-12">
+    <div class="scribe"></div>
+    <input type="hidden" name="html" value="{{content}}">
+  </div>
+</div>

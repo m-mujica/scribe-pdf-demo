@@ -1,0 +1,7 @@
+<form action="/api/pdf" method="post">
+  <cali-rte content="{content}"></cali-rte>
+
+  <button type="submit"name="button" class="btn btn-primary btn-lg">
+    GENERATE PDF
+  </button>
+</form>
